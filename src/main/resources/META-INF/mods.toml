@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)" # Forge 1.20.1
+license="All Rights Reserved"
+
+[[mods]]
+modId="bf"
+version="1.0.0"
+displayName="BF Two Teams"
+description='''It creates 2 team (ru/usa), creates spawns and gives kit depending on the team'''
