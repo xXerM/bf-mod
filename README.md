@@ -23,7 +23,7 @@ Players can:
 - 📍 **Set team-based spawn points**
 - 🛡️ **Battle with different kits**
 
-Integrates with [SuperbWarfare](https://www.curseforge.com/minecraft/mc-mods/superbwarfare) for automatic weapon & armor kit assignment.
+Integrates with [SuperbWarfare](https://www.curseforge.com/minecraft/mc-mods/superb-warfare) for automatic weapon & armor kit assignment.
 
 ---
 
