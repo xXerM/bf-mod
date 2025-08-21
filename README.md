@@ -41,7 +41,7 @@ Integrates with [SuperbWarfare](https://www.curseforge.com/minecraft/mc-mods/sup
 ## 📦 Installation
 
 **Step 1:** Install **Minecraft Forge 1.20.1**  
-**Step 2:** Copy `build/libs/bf-mod-x.x.x.jar`  
+**Step 2:** Copy `bf-mod-x.x.x.jar`  
 **Step 3:** Place it in `.minecraft/mods/`  
 **Step 4:** Launch Minecraft with the Forge profile  
 
