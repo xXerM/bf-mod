@@ -1,4 +1,4 @@
-# 🪖 Battlefield Forge (BF) Mod
+# Battlefield Forge (BF) Mod
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-blue)](https://www.minecraft.net/)
@@ -58,23 +58,23 @@ Integrates with [SuperbWarfare](https://www.curseforge.com/minecraft/mc-mods/sup
 
 ---
 
-📌 Roadmap
+## 📌 Roadmap
 
- Add support for more teams
+ **Add support for more teams**
 
- Add class-based abilities to kits
+**Add class-based abilities to kits**
 
- Implement in-game scoreboard & statistics
+ **Implement in-game scoreboard & statistics**
 
- Introduce team-based objectives (capture the flag, area defense)
+ **Introduce team-based objectives (capture the flag, area defense)**
 
-🤝 Requirements
+## 🤝 Requirements
 
-Minecraft Forge 1.20.1
+**Minecraft Forge 1.20.1**
 
-SuperbWarfare Mod
+**SuperbWarfare Mod**
 
-📝 License
+## 📝 License
 
-This project is licensed under the MIT License.
+**This project is licensed under the MIT License.**
 
