@@ -7,10 +7,10 @@
 
 ## 🎬 Preview
 
-![Gameplay Preview](screenshots/preview1.png)  
+![Gameplay Preview](screenshots/1.png)  
 *Battlefield Forge in action: Team combat & kit selection*
 
-![Team Spawn](screenshots/preview2.png)  
+![Team Spawn](screenshots/2.png)  
 *Setting team-based spawn points using commands*
 
 ---
